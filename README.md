@@ -1,3 +1,3 @@
 # tindog
 Live Link:
-https://pradhumn-mittal.github.io/tindog/
+https://varnit766.github.io/Tin-Dog/
